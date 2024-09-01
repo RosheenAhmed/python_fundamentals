@@ -2,9 +2,9 @@
 # or
 # not
 
-print(True and True)
-print(False and True)
-print(True or False)
-print(False or False)
-print(not True)
-print(not False)
+print(True and True) # True
+print(False and True) # False
+print(True or False) # True
+print(False or False) # False
+print(not True) # False
+print(not False) # True
