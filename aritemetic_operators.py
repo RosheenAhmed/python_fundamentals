@@ -7,7 +7,7 @@
 # modulus %
 # exponential **
 # augumented assingment
-# assignment
+# assignment =
 
 num1 = 10
 num2 = 20
